@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Munawar Mahtab Ansary — Machine Learning Engineer" />
+<img src="./banner.png" width="100%" alt="Munawar Mahtab Ansary, Machine Learning Engineer" />
 
 <a href="https://munawaransary.github.io">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9D8F&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Building+RAG+%26+LLM+systems+in+production;NLP+for+low-resource+Bangla;Full-stack+when+it+ships" alt="Typing SVG" />
@@ -17,9 +17,9 @@
 
 ## 👋 About Me
 
-I'm a **Machine Learning Engineer** who loves taking AI from idea to production — from training and fine-tuning models to deploying them as real products people use. My work spans **NLP**, **LLM systems**, and **retrieval-augmented generation**, with a soft spot for **low-resource languages**.
+I'm a **Machine Learning Engineer** who loves taking AI from idea to production. I've built **RAG systems**, **AI chatbots**, **OCR and document-processing pipelines**, **LLM-powered QA systems**, and **speech-to-text and translation models**, and shipped them as real products people use.
 
-I believe good ML engineering is as much about **shipping reliable software** as it is about models — so I'm comfortable across the **full stack**, from data pipelines and APIs to the interfaces users touch.
+I believe good ML engineering is as much about **shipping reliable software** as it is about models, so I'm comfortable across the **full stack**, from data pipelines and REST APIs to cloud deployment.
 
 - 🤖 Build production **RAG chatbots** and **LLM systems**
 - 🧠 Train deep-learning models with **PyTorch** & **Transformers**
@@ -74,11 +74,11 @@ I believe good ML engineering is as much about **shipping reliable software** as
 
 ## 🏆 Achievements & Recognition
 
-- 🥈 **11th of 187 teams** — BRACU Intra-University Programming Contest (Team Rocket)
-- 🎓 **Vice-Chancellor's List** ×6 semesters & **Dean's List** — BRAC University
-- 💰 **50% Merit Scholarship** — BRAC University
-- 🏅 **Semi-finalist** — Vitalizers 2.0 Business Case Competition
-- 🤝 **Volunteer & Organizer** — Muradpur Foundation (health camps & education funding)
+- 🥈 **11th of 187 teams** in the BRACU Intra-University Programming Contest (Team Rocket)
+- 🎓 **Vice-Chancellor's List** ×6 semesters and **Dean's List** at BRAC University
+- 💰 **50% Merit Scholarship** at BRAC University
+- 🏅 **Semi-finalist** in the Vitalizers 2.0 Business Case Competition
+- 🤝 **Volunteer and Organizer** at Muradpur Foundation (health camps and education funding)
 
 ## 🤝 Let's Connect
 
