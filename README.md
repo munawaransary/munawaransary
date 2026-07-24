@@ -17,9 +17,9 @@
 
 ## 👋 About Me
 
-I'm a **Machine Learning Engineer** at **Innospace Infotech**, where I shipped **Brritto AI** — a production RAG chatbot — along with OCR and LLM systems that run in production. Alongside that, I'm a **Research Engineer Intern** at **UIU's AIMS Lab**, building **MonCare**, a private, trilingual mental-health support chatbot. I hold a **BSc in Computer Science from BRAC University (CGPA 3.91)**.
+I'm a **Machine Learning Engineer** who loves taking AI from idea to production — from training and fine-tuning models to deploying them as real products people use. My work spans **NLP**, **LLM systems**, and **retrieval-augmented generation**, with a soft spot for **low-resource languages**.
 
-I care about **NLP for low-resource languages** (especially Bangla), **retrieval-augmented generation**, and **shipping AI that actually works** — and I'm comfortable across the **full stack** when a project needs it.
+I believe good ML engineering is as much about **shipping reliable software** as it is about models — so I'm comfortable across the **full stack**, from data pipelines and APIs to the interfaces users touch.
 
 - 🤖 Build production **RAG chatbots** and **LLM systems**
 - 🧠 Train deep-learning models with **PyTorch** & **Transformers**
@@ -77,17 +77,8 @@ I care about **NLP for low-resource languages** (especially Bangla), **retrieval
 - 🥈 **11th of 187 teams** — BRACU Intra-University Programming Contest (Team Rocket)
 - 🎓 **Vice-Chancellor's List** ×6 semesters & **Dean's List** — BRAC University
 - 💰 **50% Merit Scholarship** — BRAC University
-- 🗣️ **IELTS 7.0** overall
 - 🏅 **Semi-finalist** — Vitalizers 2.0 Business Case Competition
 - 🤝 **Volunteer & Organizer** — Muradpur Foundation (health camps & education funding)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=munawaransary&hide_border=true&background=0d1117&ring=2c9d8f&fire=2c9d8f&currStreakLabel=2c9d8f&stroke=2c9d8f&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="GitHub streak" />
-
-</div>
 
 ## 🤝 Let's Connect
 
