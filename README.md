@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c9d8f&height=200&section=header&text=Munawar%20Mahtab%20Ansary&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%C2%B7%20NLP%20%26%20LLM%20Systems&descSize=18&descAlignY=58&descColor=ffffff" width="100%" />
+<img src="./banner.png" width="100%" alt="Munawar Mahtab Ansary — Machine Learning Engineer" />
 
 <a href="https://munawaransary.github.io">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9D8F&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Building+RAG+%26+LLM+systems+in+production;NLP+for+low-resource+Bangla;Full-stack+when+it+ships" alt="Typing SVG" />
@@ -96,9 +96,5 @@ I care about **NLP for low-resource languages** (especially Bangla), **retrieval
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munawar-mahtab-ansary/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C9D8F?style=for-the-badge&logo=githubpages&logoColor=white)](https://munawaransary.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munawarmahtabansary@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c9d8f,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
