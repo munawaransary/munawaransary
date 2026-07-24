@@ -3,7 +3,7 @@
 <img src="./banner.png" width="100%" alt="Munawar Mahtab Ansary, Machine Learning Engineer" />
 
 <a href="https://munawaransary.github.io">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9D8F&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Building+RAG+%26+LLM+systems+in+production;NLP+for+low-resource+Bangla;Full-stack+when+it+ships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9D8F&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;RAG+%26+LLM+systems+in+production;OCR%2C+speech+and+translation+models;Full-stack+when+it+ships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I believe good ML engineering is as much about **shipping reliable software** as
 
 - 🤖 Build production **RAG chatbots** and **LLM systems**
 - 🧠 Train deep-learning models with **PyTorch** & **Transformers**
-- 🗣️ Work on **ASR, translation, and NLP** for Bangla
+- 🗣️ Work on **speech-to-text, translation, and NLP**
 - ⚙️ Ship full-stack products with **Django** & **Laravel**
 - 🌐 Portfolio → **[munawaransary.github.io](https://munawaransary.github.io)**
 
